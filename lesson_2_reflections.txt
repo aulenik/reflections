@@ -8,8 +8,16 @@ na dodatek wszystkie pliki odnoœnie jednego projektu s¹ razem.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+Staging area ró¿ni siê od working directory tym, ¿e to jest miejsce, w które 
+wstawiane s¹ poszczególne elementy, które maj¹ byæ zacommitowane i potem id¹ one
+do repository z commitem. W working directory s¹ wszystkie pliki. Repository ma
+w sobie ju¿ zacommitowane pliki.
+Oferuje to mo¿liwoœæ wyboru jakie pliki chcê zupdate'owaæ i którymi chcê siê pos³ugiwaæ
+co u³atwia wyszukiwanie bugów, ulepszanie, itp.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Moge zmieniac tylko jeden plik lub zmieniac wszystkie powiazane? nie rozumiem pytania
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
