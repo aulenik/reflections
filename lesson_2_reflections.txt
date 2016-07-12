@@ -26,6 +26,8 @@ Moga byc uzyteczne w przypadku, gdy mam kilka koncepcji i chce je wszystkie wypr
 
 How do the diagrams help you visualize the branch structure?
 
+Pozwalaja mi ocenic co zostalo zrobione w ktorym momencie i do czego to sie odwoluje
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
