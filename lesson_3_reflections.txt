@@ -7,3 +7,11 @@ Git automatically stay up-to-date with your remote repository?
 
 Sa rzeczy ktorych moge nie chciec u siebie. Moga tez byc rzeczy, ktore psuja dzialanie
 albo modyfikuja kod na ktorym dzialam
+
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+forks - klonowanie z githuba do githuba (pokazuje autora)
+clones - klonowanie z local do localx lub
+z githuba do komputera
+branches - w jednym miejscu, nie klonownie
