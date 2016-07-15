@@ -17,3 +17,8 @@ z githuba do komputera
 branches - w jednym miejscu, nie klonownie
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Mialbym wszystko na papierze i mialbym duzo wiecej plikow. Trudniej dokonywaloby sie zmian i szukalo bledow
+ale byloby bardziej przejrzyste w mojej glowie
