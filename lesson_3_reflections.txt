@@ -15,3 +15,5 @@ forks - klonowanie z githuba do githuba (pokazuje autora)
 clones - klonowanie z local do localx lub
 z githuba do komputera
 branches - w jednym miejscu, nie klonownie
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
