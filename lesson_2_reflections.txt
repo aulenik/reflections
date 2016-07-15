@@ -31,5 +31,9 @@ Pozwalaja mi ocenic co zostalo zrobione w ktorym momencie i do czego to sie odwo
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+Wynikiem jest jedna galaz, w ktorej polaczony jest kod z dwoch galezi. reprezentujemy go w taki sposob bo to jest logiczne, ze musi tak byc? 
+
 What are the pros and cons of Gitâ??s automatic merging vs. always doing merges
 manually?
+
+Plusy tego sa takie, ze nie musimy weryfikowac tego jesli wszystko dziala, co oszczedza czas. Minus jest taki, ze moze wkrasc sie niechciany bug
